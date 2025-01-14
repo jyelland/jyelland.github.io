@@ -18,21 +18,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-In Rasi's lab, we study the **genetic regulation of protein synthesis**, by developing and using high-throughput tools
-to examine messenger RNA and its translation by the ribosome.
+In Rasi's lab, I study the genetic regulation of cellular protein synthesis,
+using CRISPR to examine thousands of genes for their ability to control the synthesis and translation of messenger RNA.
 
-I have expertise in the mechanisms and regulation of **translation**, the cellular process through which
+My primary expertise is in the mechanisms and regulation of **translation**, the cellular process through which
 all genetic information is translated into functional protein molecules.
-I also have a comprehensive array of scientific skills, including microbial genetics, human cell culture and genetics,
-cryo-electron microscopy, and many modern and old-school tools for studying the biology of RNA.
+I have also developed an array of scientific skills, including microbial genetics,
+human cell culture and genetics, cryo-electron microscopy, and many modern and old-school tools for studying the biology of RNA.
 
-I studied at **Oberlin College**,
-then obtained a Ph.D. in biochemistry from the **University of Texas at Austin**,
-where I was mentored by Arlen Johnson and David Taylor.
+I studied biochemistry at **Oberlin College**,
+then obtained a Ph.D. from the **University of Texas at Austin**,
+where I was mentored by [Arlen Johnson](https://arlen002.wixsite.com/johnsonlab) and [David Taylor](https://davidtaylorlab.com/).
 
-As a postdoc, I am building a solid foundation of computational biology skills, learning to analyze and visualize high-throughput sequencing data.
-I have become a big fan of **version control**, **tidy data** principles, using **Docker** for code reproducibility, and writing almost everything using **markdown**, **pandoc** and/or **LaTeX**.
-Plus, now I can barely type without using **vim** keybindings...
+In my postdocoral studies, I am building a solid foundation of computational biology skills, learning to analyze and visualize high-throughput sequencing data.
+I have become a big fan of **version control**, **tidy data** principles, using **Docker** for code reproducibility, and writing almost everything using **markdown**, **pandoc**, and/or **LaTeX**.
+Plus, now I can barely type without using `vim` keybindings...
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
