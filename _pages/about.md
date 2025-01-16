@@ -30,7 +30,7 @@ I studied biochemistry at **Oberlin College**,
 then obtained a Ph.D. from the **University of Texas at Austin**,
 where I was mentored by [Arlen Johnson](https://arlen002.wixsite.com/johnsonlab) and [David Taylor](https://davidtaylorlab.com/).
 
-In my postdocoral studies, I am building a solid foundation of computational biology skills, learning to analyze and visualize high-throughput sequencing data.
+In my postdoctoral studies, I am building a solid foundation of computational biology skills, learning to analyze and visualize high-throughput sequencing data.
 I have become a big fan of **version control**, **tidy data** principles, using **Docker** for code reproducibility, and writing almost everything using **markdown**, **pandoc**, and/or **LaTeX**.
 Plus, now I can barely type without using `vim` keybindings...
 
